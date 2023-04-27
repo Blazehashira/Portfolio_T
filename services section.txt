@@ -1,0 +1,61 @@
+   <!-- Services -->
+    <div id="services" class="py-10 dark:bg-slate-900">
+      <div class="container mx-auto">
+        <!-- Top -->
+        <div class="flex flex-col gap-3 items-center">
+          <h1 class="text-indigo-600 font-bold">SERVICES</h1>
+          <h1 class="font-bold text-3xl dark:text-gray-100">WHAT I OFFER</h1>
+          <p class="text-gray-200 text-center w-1/2">
+            My approach to websites design is to create a website that
+            strengthens your company's brand while ensuring ease of use and
+            simplicity for your audiences.
+          </p>
+        </div>
+
+        <!-- Bottom -->
+        <div class="p-5 flex flex-wrap sm:p-0 justify-between xxl:mx-10">
+          <!-- Card -->
+          <div
+            class="w-full md:w-4/12 shadow-xl rounded-lg p-5 my-3 md:my-10 flex flex-col gap-3"
+          >
+            <img class="w-10" src="./assets/website-codes.png" alt="" />
+            <h1 class="font-medium text-lg dark:text-gray-100">Service</h1>
+            <p class="text-gray-300">
+              I specialize in creating interactive websites for individuals and
+              small businesses.
+            </p>
+            <a class="text-indigo-600 font-semibold text-sm" href="#"
+              >Read more</a
+            >
+          </div>
+          <!-- Card -->
+          <div
+            class="w-full md:w-4/12 shadow-xl rounded-lg p-5 my-3 md:my-10 flex flex-col gap-3"
+          >
+            <img class="w-10" src="./assets/website-codes.png" alt="" />
+            <h1 class="font-medium text-lg dark:text-gray-100">Service</h1>
+            <p class="text-gray-300">
+              I specialize in creating interactive websites for individuals and
+              small businesses.
+            </p>
+            <a class="text-indigo-600 font-semibold text-sm" href="#"
+              >Read more</a
+            >
+          </div>
+          <!-- Card -->
+          <div
+            class="w-full md:w-4/12 shadow-xl rounded-lg p-5 my-3 md:my-10 flex flex-col gap-3"
+          >
+            <img class="w-10" src="./assets/website-codes.png" alt="" />
+            <h1 class="font-medium text-lg dark:text-gray-100">Service</h1>
+            <p class="text-gray-300">
+              I specialize in creating interactive websites for individuals and
+              small businesses.
+            </p>
+            <a class="text-indigo-600 font-semibold text-sm" href="#"
+              >Read More</a
+            >
+          </div>
+        </div>
+      </div>
+    </div>
